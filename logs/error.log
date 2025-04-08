@@ -1,0 +1,16 @@
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:15:08"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:15:08"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:17:43"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:17:43"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:18:38"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:18:38"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:11"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:11"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:36"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:36"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:37"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:37"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:45"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:45"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:51"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:51"}

@@ -1,0 +1,136 @@
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:15:08"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:15:08"}
+{"level":"warn","message":"Missing recommended environment variables: PORT, ADMIN_USERNAME, ADMIN_PASSWORD, TOKEN_EXPIRY","service":"co2-calculation-api","timestamp":"2025-03-03 12:15:08"}
+{"level":"warn","message":"Default values will be used, but it is recommended to set these variables","service":"co2-calculation-api","timestamp":"2025-03-03 12:15:08"}
+{"level":"info","message":"Using default PORT: 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:15:08"}
+{"level":"info","message":"Using default ADMIN_USERNAME: admin","service":"co2-calculation-api","timestamp":"2025-03-03 12:15:08"}
+{"level":"warn","message":"Using default ADMIN_PASSWORD: admin123 (not secure for production)","service":"co2-calculation-api","timestamp":"2025-03-03 12:15:08"}
+{"level":"info","message":"Using default TOKEN_EXPIRY: 30d","service":"co2-calculation-api","timestamp":"2025-03-03 12:15:08"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:15:08"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:15:08"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:17:43"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:17:43"}
+{"level":"warn","message":"Missing recommended environment variables: PORT, ADMIN_USERNAME, ADMIN_PASSWORD, TOKEN_EXPIRY","service":"co2-calculation-api","timestamp":"2025-03-03 12:17:43"}
+{"level":"warn","message":"Default values will be used, but it is recommended to set these variables","service":"co2-calculation-api","timestamp":"2025-03-03 12:17:43"}
+{"level":"info","message":"Using default PORT: 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:17:43"}
+{"level":"info","message":"Using default ADMIN_USERNAME: admin","service":"co2-calculation-api","timestamp":"2025-03-03 12:17:43"}
+{"level":"warn","message":"Using default ADMIN_PASSWORD: admin123 (not secure for production)","service":"co2-calculation-api","timestamp":"2025-03-03 12:17:43"}
+{"level":"info","message":"Using default TOKEN_EXPIRY: 30d","service":"co2-calculation-api","timestamp":"2025-03-03 12:17:43"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:17:43"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:17:43"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:18:38"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:18:38"}
+{"level":"warn","message":"Missing recommended environment variables: PORT, ADMIN_USERNAME, ADMIN_PASSWORD, TOKEN_EXPIRY","service":"co2-calculation-api","timestamp":"2025-03-03 12:18:38"}
+{"level":"warn","message":"Default values will be used, but it is recommended to set these variables","service":"co2-calculation-api","timestamp":"2025-03-03 12:18:38"}
+{"level":"info","message":"Using default PORT: 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:18:38"}
+{"level":"info","message":"Using default ADMIN_USERNAME: admin","service":"co2-calculation-api","timestamp":"2025-03-03 12:18:38"}
+{"level":"warn","message":"Using default ADMIN_PASSWORD: admin123 (not secure for production)","service":"co2-calculation-api","timestamp":"2025-03-03 12:18:38"}
+{"level":"info","message":"Using default TOKEN_EXPIRY: 30d","service":"co2-calculation-api","timestamp":"2025-03-03 12:18:38"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:18:38"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:18:38"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:11"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:11"}
+{"level":"warn","message":"Missing recommended environment variables: PORT, ADMIN_USERNAME, ADMIN_PASSWORD, TOKEN_EXPIRY","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:11"}
+{"level":"warn","message":"Default values will be used, but it is recommended to set these variables","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:11"}
+{"level":"info","message":"Using default PORT: 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:11"}
+{"level":"info","message":"Using default ADMIN_USERNAME: admin","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:11"}
+{"level":"warn","message":"Using default ADMIN_PASSWORD: admin123 (not secure for production)","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:11"}
+{"level":"info","message":"Using default TOKEN_EXPIRY: 30d","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:11"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:11"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:11"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:36"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:36"}
+{"level":"warn","message":"Missing recommended environment variables: PORT, ADMIN_USERNAME, ADMIN_PASSWORD, TOKEN_EXPIRY","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:36"}
+{"level":"warn","message":"Default values will be used, but it is recommended to set these variables","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:36"}
+{"level":"info","message":"Using default PORT: 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:36"}
+{"level":"info","message":"Using default ADMIN_USERNAME: admin","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:36"}
+{"level":"warn","message":"Using default ADMIN_PASSWORD: admin123 (not secure for production)","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:36"}
+{"level":"info","message":"Using default TOKEN_EXPIRY: 30d","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:36"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:36"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:19:36"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:37"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:37"}
+{"level":"warn","message":"Missing recommended environment variables: PORT, ADMIN_USERNAME, ADMIN_PASSWORD, TOKEN_EXPIRY","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:37"}
+{"level":"warn","message":"Default values will be used, but it is recommended to set these variables","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:37"}
+{"level":"info","message":"Using default PORT: 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:37"}
+{"level":"info","message":"Using default ADMIN_USERNAME: admin","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:37"}
+{"level":"warn","message":"Using default ADMIN_PASSWORD: admin123 (not secure for production)","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:37"}
+{"level":"info","message":"Using default TOKEN_EXPIRY: 30d","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:37"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:37"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:37"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:45"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:45"}
+{"level":"warn","message":"Missing recommended environment variables: PORT, ADMIN_USERNAME, ADMIN_PASSWORD, TOKEN_EXPIRY","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:45"}
+{"level":"warn","message":"Default values will be used, but it is recommended to set these variables","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:45"}
+{"level":"info","message":"Using default PORT: 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:45"}
+{"level":"info","message":"Using default ADMIN_USERNAME: admin","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:45"}
+{"level":"warn","message":"Using default ADMIN_PASSWORD: admin123 (not secure for production)","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:45"}
+{"level":"info","message":"Using default TOKEN_EXPIRY: 30d","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:45"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:45"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:45"}
+{"level":"error","message":"Missing required environment variables: JWT_SECRET","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:51"}
+{"level":"error","message":"Please set these variables in your .env file or environment","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:51"}
+{"level":"warn","message":"Missing recommended environment variables: PORT, ADMIN_USERNAME, ADMIN_PASSWORD, TOKEN_EXPIRY","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:51"}
+{"level":"warn","message":"Default values will be used, but it is recommended to set these variables","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:51"}
+{"level":"info","message":"Using default PORT: 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:51"}
+{"level":"info","message":"Using default ADMIN_USERNAME: admin","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:51"}
+{"level":"warn","message":"Using default ADMIN_PASSWORD: admin123 (not secure for production)","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:51"}
+{"level":"info","message":"Using default TOKEN_EXPIRY: 30d","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:51"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:51"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:20:51"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:21:16"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:21:16"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:21:23"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:21:23"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:24:58"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:24:58"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:26:25"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:26:25"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:26:31"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:26:31"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:30:54"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:30:54"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:32:05"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:32:05"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:33:12"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:33:12"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:33:49"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:33:49"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:34:50"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:34:50"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:35:08"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:35:08"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:35:15"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:35:15"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:36:34"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:36:34"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:36:53"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:36:53"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:37:04"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:37:04"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:37:16"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:37:16"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:37:42"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:37:42"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:38:04"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:38:04"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-03 12:58:28"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-03 12:58:28"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-04 11:43:11"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-04 11:43:11"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-04 12:14:55"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-04 12:14:55"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-04 12:19:01"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-04 12:19:01"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-04 12:21:33"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-04 12:21:33"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-10 11:00:32"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-10 11:00:32"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-18 10:22:43"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-18 10:22:43"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-18 14:18:38"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-18 14:18:38"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-03-18 14:22:26"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-03-18 14:22:26"}
+{"level":"info","message":"CO2 Calculation API running on port 3000","service":"co2-calculation-api","timestamp":"2025-04-08 09:27:53"}
+{"level":"info","message":"Swagger documentation available at http://localhost:3000/api-docs","service":"co2-calculation-api","timestamp":"2025-04-08 09:27:53"}
